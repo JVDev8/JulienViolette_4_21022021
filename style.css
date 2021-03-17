@@ -740,6 +740,7 @@ h1 {
 
 .tc-white {
     color: #F3976C!important;
+    z-index: 100;
 }
 
 .btn-atomic-tangerine:hover {
