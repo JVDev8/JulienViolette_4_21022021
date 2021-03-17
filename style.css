@@ -742,10 +742,6 @@ h1 {
     color: #F3976C!important;
 }
 
-.bg-dark {
-    background-color: rgba(0, 0, 0, 0.9);
-}
-
 .btn-atomic-tangerine:hover {
     background: #c27956;
 }
