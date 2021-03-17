@@ -744,6 +744,7 @@ h1 {
 
 .bg-dark {
     background-color: rgba(0, 0, 0, 0.9);
+}
 
 .btn-atomic-tangerine:hover {
     background: #c27956;
